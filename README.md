@@ -1,6 +1,6 @@
 # Crud
 Introduction
-    This repository contains a step-by-step guide for completing a tutorial on SIMPLE-CRUD-APP-BACKEND. The tutorial covers his tutorial provides a comprehensive guide on setting up and deploying a web application using NODE JS, VS CODE, INSOMNIA,POSTMAN AND EXPRESS. It covers everything from setting up the development environment, configuring settings, running the application locally, testing, to deploying it to a hosting platform. By following the step-by-step instructions, you will learn how to create and deploy a functional web application seamlessly.
+    This repository contains a step-by-step guide for completing a tutorial on SIMPLE-CRUD-APP-BACKEND. This provides a comprehensive guide on setting up and deploying a web application using NODE JS, VS CODE, INSOMNIA,POSTMAN AND EXPRESS. It covers everything from setting up the development environment, configuring settings, running the application locally, testing, to deploying it to a hosting platform. By following the step-by-step instructions, you will learn how to create and deploy a functional web application seamlessly.
 
 Prerequisites
 Ensure you have the following installed:
